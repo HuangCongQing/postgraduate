@@ -9,6 +9,8 @@ Related:https://github.com/HuangCongQing/paper-journal
 * 对研究生培养的一点看法-胡占义：http://vision.ia.ac.cn/zh/forum/1.html
 * 画虎成猫-胡占义：http://vision.ia.ac.cn/zh/forum/2.html
 
+### 公众号
+* 饶议科学【饶毅】
 
 ### 科研
 
