@@ -1,4 +1,4 @@
-# postgraduate
+# Post-Graduate
 研究生培养 发展等
 
 Related:https://github.com/HuangCongQing/paper-journal
