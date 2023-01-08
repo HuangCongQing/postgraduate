@@ -3,7 +3,7 @@
 
 Related:https://github.com/HuangCongQing/paper-journal
 
-个人笔记：https://www.yuque.com/huangzhongqing/zfupuv
+个人笔记（整理ing）：https://www.yuque.com/huangzhongqing/zfupuv
 
 
 * 对研究生培养的一点看法-胡占义：http://vision.ia.ac.cn/zh/forum/1.html
