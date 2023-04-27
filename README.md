@@ -5,6 +5,7 @@ Related:https://github.com/HuangCongQing/paper-journal
 
 个人笔记（整理ing）：https://www.yuque.com/huangzhongqing/zfupuv
 
+* 个人公众号系列文章：http://mp.weixin.qq.com/mp/homepage?__biz=MzI4OTY1MjA3Mg==&hid=6&sn=3fbb53a8a722cf813d17d6e84edb8800&scene=18#wechat_redirect
 
 * 对研究生培养的一点看法-胡占义：http://vision.ia.ac.cn/zh/forum/1.html
 * 画虎成猫-胡占义：http://vision.ia.ac.cn/zh/forum/2.html
