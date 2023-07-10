@@ -19,7 +19,7 @@ Related:https://github.com/HuangCongQing/paper-journal
 
 ## 期刊会议介绍
 
-
+* https://github.com/HuangCongQing/paper-journal
 
 
 ## 科研经验
